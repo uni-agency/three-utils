@@ -2,6 +2,19 @@
   "name": "three-utils",
   "version": "0.1.0",
   "private": true,
+  "description": "helpers and utils for react-three-fiber",
+  "keywords": [
+    "react",
+    "three",
+    "threejs",
+    "react-three-fiber"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uni-agency/three-utils"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/uni-agency/three-utils",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
